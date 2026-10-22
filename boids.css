@@ -1,0 +1,4 @@
+/* Original flocking experiment. Pointer coordinates, local steering rules, and GUI settings drive a collection of triangle meshes.
+ * Page-specific layout and controls; shared theme colors are supplied by /Theme.css.
+ */
+#gui { position: absolute; top: 15%;}
